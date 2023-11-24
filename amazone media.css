@@ -64,6 +64,9 @@
     .search-select{
       display: none;
     }
+    .search-icon{
+      margin-right: -18px;
+    }
 
     .nav-singin {
           padding: 7px;
@@ -109,7 +112,8 @@
     .panel-all{
       font-size: 0.9rem;
       display: inline-flex;
-      margin-right: 7px;
+      margin-right: 8px;
+            margin-left: 8px;
     }
     .ul{
       flex-wrap: wrap;
@@ -173,7 +177,7 @@
     
     
     .foot-panel2{
-      height: 355px;
+      height: 310px;
       font-size: 0.8rem;
       padding: 0 9px;
     }
