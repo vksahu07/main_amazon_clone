@@ -122,7 +122,7 @@
     }
     .hero-section {
           display: flex;
-          background-image: url('image-1/hero_image.jpg');
+          background-image: url('/image-1/hero_image.jpg');
           height: 150px;
           background-size: cover ;
           background-repeat: no-repeat;
